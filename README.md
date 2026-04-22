@@ -30,7 +30,6 @@ Web ve mobil uygulama geliştirme süreçlerinde uçtan uca çözümler üreten,
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darknes134&show_icons=true&locale=en" alt="darknes134" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darknes134&" alt="darknes134" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darknes134&show_icons=true&locale=en" alt="darknes134" /></p>
 
