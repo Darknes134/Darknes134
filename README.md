@@ -1,8 +1,8 @@
-# Hello World 🚀
-I am a software developer providing end-to-end solutions in web and mobile application development, integrating these processes with cybersecurity principles. Beyond building high-performance and scalable systems, my primary focus is enhancing the resilience of architectures against security vulnerabilities. By utilizing Secure Coding practices and penetration testing methodologies throughout the Software Development Life Cycle (SDLC), I ensure that projects are both functionally robust and inherently secure.
+# print("Merhaba, Ben Asaf")` 🚀
+Web ve mobil uygulama geliştirme süreçlerinde uçtan uca çözümler üreten, bu süreçleri siber güvenlik prensipleriyle entegre eden bir yazılım geliştiriciyim. Performanslı ve ölçeklenebilir sistemler inşa etmenin yanı sıra, geliştirilen mimarilerin güvenlik zafiyetlerine karşı direncini artırmak temel odak noktamı oluşturmaktadır. Yazılım yaşam döngüsünde (SDLC) güvenli kod yazımı (Secure Coding) ve penetrasyon testi metodolojilerini kullanarak, projelerin hem işlevsel hem de korunaklı olmasını sağlıyorum.
 
 
-Skills & Tools:
+# Diller & Araçlar:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
