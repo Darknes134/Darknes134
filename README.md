@@ -18,7 +18,7 @@ Web ve mobil uygulama geliştirme süreçlerinde uçtan uca çözümler üreten,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darknes134&label=Profile%20views&color=0e75b6&style=flat" alt="darknes134" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
