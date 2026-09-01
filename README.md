@@ -2,9 +2,7 @@
 💻Software & Tech Enthusiast | Coffee Connoisseur☕
 
 
-# Languages and Tools that I like and use::
-
-https://camo.githubusercontent.com/b7c04b900497733c232ea907370b2ce75b95be3a7215139a7048f4ac6d97a38a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667
+# Languages and Tools that I like and use:
 
 
 
