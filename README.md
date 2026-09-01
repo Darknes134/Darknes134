@@ -1,12 +1,10 @@
 # print` 🚀
-Web ve mobil uygulama geliştirme süreçlerinde uçtan uca çözümler üreten, bu süreçleri siber güvenlik prensipleriyle entegre eden bir yazılım geliştiriciyim. Performanslı ve ölçeklenebilir sistemler inşa etmenin yanı sıra, geliştirilen mimarilerin güvenlik zafiyetlerine karşı direncini artırmak temel odak noktamı oluşturmaktadır. Yazılım yaşam döngüsünde (SDLC) güvenli kod yazımı (Secure Coding) ve penetrasyon testi metodolojilerini kullanarak, projelerin hem işlevsel hem de korunaklı olmasını sağlıyorum.
+💻Software & Tech Enthusiast | Coffee Connoisseur☕
 
 
-# Diller & Araçlar:
+# Languages and Tools that I like and use::
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+https://camo.githubusercontent.com/b7c04b900497733c232ea907370b2ce75b95be3a7215139a7048f4ac6d97a38a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667
 
 
 
