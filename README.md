@@ -1,4 +1,4 @@
-# print("Merhaba, Ben Asaf")` 🚀
+# print` 🚀
 Web ve mobil uygulama geliştirme süreçlerinde uçtan uca çözümler üreten, bu süreçleri siber güvenlik prensipleriyle entegre eden bir yazılım geliştiriciyim. Performanslı ve ölçeklenebilir sistemler inşa etmenin yanı sıra, geliştirilen mimarilerin güvenlik zafiyetlerine karşı direncini artırmak temel odak noktamı oluşturmaktadır. Yazılım yaşam döngüsünde (SDLC) güvenli kod yazımı (Secure Coding) ve penetrasyon testi metodolojilerini kullanarak, projelerin hem işlevsel hem de korunaklı olmasını sağlıyorum.
 
 
