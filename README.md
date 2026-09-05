@@ -39,3 +39,39 @@ Utilizing Git for version control and preferring Linux as my primary operating s
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 🌐 Web Development
+- Building modern, dynamic, and secure websites using **HTML, CSS, JavaScript**
+
+### 🛡️ Cybersecurity
+- Passionate about **Cybersecurity**, network defense, and secure coding practices
+
+### 🐧 Operating Systems & Virtualization
+- Hands-on experience with **Linux**, Virtual Machines, and OS architecture
+
+### 🔌 Embedded Systems & Hardware
+- Developing IoT and hardware projects using **Arduino**
+
+### 💻 Desktop & Mobile Development
+- Developing applications using **C++, C#, Python, Java**
+- Building mobile apps with **Android Studio**
+
+### 🛠️ Tools & Workflow
+- Version control with **Git** & working natively on **Linux**
+
