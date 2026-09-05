@@ -10,15 +10,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,java,linux,androidstudio,git,arduino" />
-</a>
-
-
-
-
-
-
-<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=cpp,cs,py,js,html,css,java,linux,androidstudio,git,arduino" />
 </a>
 
