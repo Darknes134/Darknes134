@@ -2,27 +2,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=HELLO+WORLD!+%F0%9F%91%8B;WELCOME+TO+MY+GITHUB+PAGE+%F0%9F%92%A4" alt="Typing SVG" />
 </a>
 
-💻 Yazılım & Teknoloji Meraklısı | Kahve Gurmesi☕
+💻Software & Tech Enthusiast | Coffee Connoisseur☕
 
 
-### 🌐 Web Geliştirme
-- **HTML, CSS ve JavaScript** kullanarak modern, dinamik ve güvenli web siteleri geliştiriyorum.
+🌐 Web Development
+Developing modern, dynamic, and secure websites using HTML, CSS, and JavaScript.
 
-### 🛡️ Siber Güvenlik
-- Siber güvenlik alanıyla yakından ilgileniyor; ağ güvenliği, sızma testleri ve güvenli kodlama üzerine çalışıyorum.
+🛡️ Cybersecurity
+Passionate about cybersecurity; actively focusing on network security, penetration testing, and secure coding.
 
-### 🐧 İşletim Sistemleri & Sanallaştırma
-- **Linux** çekirdeği, sanal makineler (VMs) ve işletim sistemi mimarileri üzerinde pratik yapıyorum.
+🐧 Operating Systems & Virtualization
+Practicing with the Linux kernel, virtual machines (VMs), and operating system architectures.
 
-### 🤖 Gömülü Sistemler & IoT
-- **Arduino** platformu ile donanım/yazılım entegrasyonu ve IoT projeleri üretiyorum.
+🤖 Embedded Systems & IoT
+Building IoT projects and handling hardware/software integration using the Arduino platform.
 
-### 💻 Masaüstü & Mobil Yazılım
-- **C++, C#, Python, Java** ile masaüstü uygulamaları geliştiriyorum.
-- **Android Studio** ile mobil uygulama geliştirme üzerine çalışıyorum.
+💻 Desktop & Mobile Development
+Developing desktop applications with C++, C#, Python, and Java.
 
-### 🛠️ Araçlar & İş Akışı
-- Versiyon kontrolü için **Git** kullanıyor, ana çalışma ortamı olarak **Linux** tercih ediyorum.
+Building mobile applications using Android Studio.
+
+🛠️ Tools & Workflow
+Utilizing Git for version control and preferring Linux as my primary operating system.
 
 
 
