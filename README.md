@@ -20,4 +20,13 @@
 
 
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,java,linux,androidstudio,git,arduino" />
+</a>
+
+
+
+
+
+
 
