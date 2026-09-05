@@ -5,6 +5,26 @@
 💻Software & Tech Enthusiast | Coffee Connoisseur☕
 
 
+### 🌐 Web Geliştirme
+- **HTML, CSS ve JavaScript** kullanarak modern, dinamik ve güvenli web siteleri geliştiriyorum.
+
+### 🛡️ Siber Güvenlik
+- Siber güvenlik alanıyla yakından ilgileniyor; ağ güvenliği, sızma testleri ve güvenli kodlama üzerine çalışıyorum.
+
+### 🐧 İşletim Sistemleri & Sanallaştırma
+- **Linux** çekirdeği, sanal makineler (VMs) ve işletim sistemi mimarileri üzerinde pratik yapıyorum.
+
+### 🤖 Gömülü Sistemler & IoT
+- **Arduino** platformu ile donanım/yazılım entegrasyonu ve IoT projeleri üretiyorum.
+
+### 💻 Masaüstü & Mobil Yazılım
+- **C++, C#, Python, Java** ile masaüstü uygulamaları geliştiriyorum.
+- **Android Studio** ile mobil uygulama geliştirme üzerine çalışıyorum.
+
+### 🛠️ Araçlar & İş Akışı
+- Versiyon kontrolü için **Git** kullanıyor, ana çalışma ortamı olarak **Linux** tercih ediyorum.
+
+
 
 
 <p align="left">
