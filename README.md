@@ -5,25 +5,24 @@
 💻Software & Tech Enthusiast | Coffee Connoisseur☕
 
 
-🌐 Web Development
-Developing modern, dynamic, and secure websites using HTML, CSS, and JavaScript.
+### 🌐 Web Development
+- Building modern, dynamic, and secure websites using **HTML, CSS, JavaScript**
 
-🛡️ Cybersecurity
-Passionate about cybersecurity; actively focusing on network security, penetration testing, and secure coding.
+### 🛡️ Cybersecurity
+- Passionate about **Cybersecurity**, network defense, and secure coding practices
 
-🐧 Operating Systems & Virtualization
-Practicing with the Linux kernel, virtual machines (VMs), and operating system architectures.
+### 🐧 Operating Systems & Virtualization
+- Hands-on experience with **Linux**, Virtual Machines, and OS architecture
 
-🤖 Embedded Systems & IoT
-Building IoT projects and handling hardware/software integration using the Arduino platform.
+### 🔌 Embedded Systems & Hardware
+- Developing IoT and hardware projects using **Arduino**
 
-💻 Desktop & Mobile Development
-Developing desktop applications with C++, C#, Python, and Java.
+### 💻 Desktop & Mobile Development
+- Developing applications using **C++, C#, Python, Java**
+- Building mobile apps with **Android Studio**
 
-Building mobile applications using Android Studio.
-
-🛠️ Tools & Workflow
-Utilizing Git for version control and preferring Linux as my primary operating system.
+### 🛠️ Tools & Workflow
+- Version control with **Git** & working natively on **Linux**
 
 
 
@@ -49,29 +48,4 @@ Utilizing Git for version control and preferring Linux as my primary operating s
 
 
 
-
-
-
-
-
-
-
-### 🌐 Web Development
-- Building modern, dynamic, and secure websites using **HTML, CSS, JavaScript**
-
-### 🛡️ Cybersecurity
-- Passionate about **Cybersecurity**, network defense, and secure coding practices
-
-### 🐧 Operating Systems & Virtualization
-- Hands-on experience with **Linux**, Virtual Machines, and OS architecture
-
-### 🔌 Embedded Systems & Hardware
-- Developing IoT and hardware projects using **Arduino**
-
-### 💻 Desktop & Mobile Development
-- Developing applications using **C++, C#, Python, Java**
-- Building mobile apps with **Android Studio**
-
-### 🛠️ Tools & Workflow
-- Version control with **Git** & working natively on **Linux**
 
